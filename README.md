@@ -1,0 +1,2 @@
+# Udemy_python
+Udemyのpython学習用のリポジトリです
